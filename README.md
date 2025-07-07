@@ -42,7 +42,7 @@ docker run -it gxaierr/p1   # Por último, o gerador de matrizes
 
 Exemplo de Execução
 p1:
-Digite o IP do programa 2 (destino): 192.168.0.102
+Digite o IP do programa 2 (destino): 192.168.0.102(exemplo)
 Digite a ordem da matriz: 3
 Digite o número de matrizes a enviar: 2
 
